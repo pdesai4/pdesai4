@@ -1,0 +1,15 @@
+[
+{
+"relation": [
+"delegate_permission/common.handle_all_urls"
+],
+"target": {
+"namespace": "android_app",
+"package_name": "com.rfi.sams.android",
+"sha256_cert_fingerprints": [
+"D4:B1:EF:64:39:5E:F6:0A:E7:78:11:5D:A6:6A:92:56:6F:13:53:0F:E3:D2:DF:1B:1C:BC:87:00:B0:3F:42:E6",
+"BF:8D:09:BF:E7:17:3E:EA:14:68:7C:E4:7F:1E:F5:ED:2A:7D:D5:65:AC:3A:A4:29:97:B8:7C:9A:CB:E8:77:E2"
+]
+}
+}
+]
